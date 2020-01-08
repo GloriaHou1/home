@@ -1,3 +1,4 @@
+
 body{
 	background-color: #f4f4f4;
 	color: #555555;
@@ -19,7 +20,7 @@ a{
 }
 
 a:hover{
-	color: skyblue;
+	color: coral;
 }
 
 a.visited{
@@ -42,13 +43,15 @@ ul{
 
 .navbar {
   overflow: hidden;
-  background-color: white;
+  background-color: darkgray;
 }
+
+
 
 .navbar a {
   float: left;
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
@@ -204,10 +207,8 @@ ul{
 
 
 .showcase{
-	background-image: url("image/podcast.jpg");
+	background-image: url("image/ds.jpg");
 	color: #f4f4f4;
-	height: 340px;
-	text-align: center;
 	float: auto;
 }
 
